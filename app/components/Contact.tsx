@@ -9,7 +9,7 @@ const Contact = () => {
           <h2 className='text-hightlight text-3xl'>Start a project</h2>
           <p className='font-poppins text-sm text-gray-300'>Interested in working together? We should queue up a time to chat. I’ll buy the coffee.</p>
           <div>
-            <Link href='' className='border-2 border-hightlight py-3 px-4 rounded-xl hover:text-black hover:bg-hightlight duration-300 transition-all hover:font-bold'>Let's do this</Link>
+            <Link href='mailto:contact.mhdfazil@gmail.com' className='border-2 border-hightlight py-3 px-4 rounded-xl hover:text-black hover:bg-hightlight duration-300 transition-all hover:font-bold'>Let's do this</Link>
           </div>
         </div>
       </div>

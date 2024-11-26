@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className='max-md:fixed max-md:top-0 max-md:right-full max-md:bg-black max-md:w-full max-md:h-screen max-md:flex max-md:justify-center max-md:items-center max-md:flex-col duration-300 transition-all' id='menu-bar'>
           <ul className='flex flex-col gap-6 max-md:text-center md:flex-row lg:gap-10'>
             {NAVLINK.map((link, i) => (
-              <li key={i}><Link className={cn('max-md:text-white font-poppins text-2xl md:text-xl link', navBar ? 'md:text-black' : 'md:text-white')} href={link.link}>{link.label}</Link></li>
+              <li key={i}><Link className={cn('max-md:text-white font-poppins text-2xl md:text-xl link', navBar ? 'md:text-black' : 'md:text-white')} href={link.link} onClick={toggleMenuHide}>{link.label}</Link></li>
             ))}
           </ul>
 

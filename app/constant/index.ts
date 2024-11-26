@@ -30,23 +30,23 @@ export const PORTFOLIO = [
 
   { path: '/portfolio/project-03.jpg', title: 'Kathuru Mithuru UK Show Ticket Design', description: 'Movie ticket design for Kathuru Mithuru UK Show on January 07 2024.', link: '/' },
 
-  { path: '/portfolio/project-1.jpg', title: 'Juice Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
+  { path: '/portfolio/project-1.jpg', title: 'Juice Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: 'https://mohomedfazil.github.io/fazildev/projects/juice/index.html' },
 
-  { path: '/portfolio/project-2.jpg', title: 'NFT Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
+  { path: '/portfolio/project-2.jpg', title: 'NFT Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: 'https://mohomedfazil.github.io/fazildev/projects/nft/index.html' },
 
-  { path: '/portfolio/project-3.jpg', title: 'Travel Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
+  { path: '/portfolio/project-3.jpg', title: 'Travel Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: 'https://mohomedfazil.github.io/fazildev/projects/travel/index.html' },
 
-  { path: '/portfolio/project-4.jpg', title: 'Holux Webiste UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
+  { path: '/portfolio/project-4.jpg', title: 'Holux Webiste UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: 'https://mohomedfazil.github.io/fazildev/projects/holux/index.html' },
 
-  { path: '/portfolio/project-5.jpg', title: 'GYM Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
+  { path: '/portfolio/project-5.jpg', title: 'GYM Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: 'https://mohomedfazil.github.io/fazildev/projects/gym/index.html' },
 
   { path: '/portfolio/project-6.jpg', title: 'Rolex Website UI', description: 'Fully one-page UI design with HTML, CSS & JS. Attractive components and colors give a super user experience', link: '/' },
 
   { path: '/portfolio/project-7.jpg', title: 'Bridal Gallery Website', description: 'Full-stack web development project with amazing UI and functional backend. The project is done for the salon Bridal Gallery including student registration with an admin panel.', link: '/' },
 
-  { path: '/portfolio/project-8.jpg', title: 'FZ Covers Website', description: 'Full-stack web development project with attractive UI designs and functional backend. This project is based on the Youtube channel FZ Covers including an admin panel with music notes download function.', link: '/' },
+  { path: '/portfolio/project-8.jpg', title: 'FZ Covers Website', description: 'Full-stack web development project with attractive UI designs and functional backend. This project is based on the Youtube channel FZ Covers including an admin panel with music notes download function.', link: 'https://www.fzcovers.online/' },
 
-  { path: '/portfolio/project-9.jpg', title: 'Chelsea & Callum Production UK', description: 'The Chelsea & Callum Production UK website showcases a professional platform for premium event production services. Featuring a clean and modern design, the site highlights', link: '/' },
+  { path: '/portfolio/project-9.jpg', title: 'Chelsea & Callum Production UK', description: 'The Chelsea & Callum Production UK website showcases a professional platform for premium event production services. Featuring a clean and modern design, the site highlights', link: 'https://candcproduction.uk/' },
 
   { path: '/portfolio/project-10.jpg', title: 'Ape Dee Events UK', description: 'The Ape Dee Events website is a hub for promoting music events featuring talented Sri Lankan artists. With a seamless and engaging design, the platform highlights event details, artist showcases', link: 'https://apedeeeventsuk.com/' },
 

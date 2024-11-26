@@ -1,5 +1,4 @@
 import { RiArrowRightLine } from '@remixicon/react'
-import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
@@ -17,7 +16,7 @@ const Hero = () => {
             </div>
 
           </div>
-          <div className='flex justify-end max-md:mt-10'>
+          <div className='flex justify-center max-md:mt-10'>
             <div className='max-md:w-5/6'>
               <video className="pointer-events-none"
                 autoPlay muted loop playsInline={true}>
