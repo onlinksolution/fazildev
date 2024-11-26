@@ -9,9 +9,19 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        bg: '#2E2E2E',
+        nav: '#131313',
+        hightlight: '#BCFF00'
       },
+      fontFamily: {
+        poppins: ['Poppins', 'serif'],
+        main: ['Bai Jamjuree', 'serif'],
+        title: ['Bebas Neue', 'serif']
+      },
+      fontWeight: {
+        400: '400',
+        600: '600'
+      }
     },
   },
   plugins: [],
