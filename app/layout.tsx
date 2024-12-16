@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import SnowAnimation from "./components/SnowAnimation";
 
 export const metadata: Metadata = {
   title: "Fazil Dev",
@@ -15,6 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-black text-white">
+        <SnowAnimation />
         {children}
       </body>
     </html>
